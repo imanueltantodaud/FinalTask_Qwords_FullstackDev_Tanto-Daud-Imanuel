@@ -1,2 +1,0 @@
-# FinalTask_Qwords_FullstackDev_Tanto-Daud-Imanuel
-FinalTask_Qwords_FullstackDev_Tanto Daud Imanuel
